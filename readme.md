@@ -84,7 +84,7 @@ Getting Started
 
 ```bash
 # Get the project
-git clone https://github.com/unicodeveloper/laravel-hackathon-starter.git hackathon-starter-pack
+git clone https://github.com/patricmutwiri/laravel-hackathon-starter.git hackathon-starter-pack
 
 # Change directory
 cd hackathon-starter-pack
@@ -652,10 +652,11 @@ If you discover a security vulnerability within Laravel Hackathon Starter, pleas
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
 
-Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
+Don't forget to [follow me on twitter](https://twitter.com/patric_mutwiri)!
 
 Thanks!
-Prosper Otemuyiwa.
+Prosper Otemuyiwa. 
+
 
 ## License
 
